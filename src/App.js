@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import "./scss/app.scss"
 // import { BrowserRouter} from "react-router-dom";
 import { HashRouter} from "react-router-dom";
