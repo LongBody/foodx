@@ -1,0 +1,53 @@
+.btn__Google {
+    margin: 5px;
+    width: 213.88px;
+    height: 35px;
+    border-radius: 4px;
+    background: rgb(255, 255, 255);
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: gray;
+    font-weight: bold;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+    &:hover {
+        background: white;
+        opacity: 0.9;
+        box-shadow: 0 18px 18px 0 rgba(0, 0, 0, 0.2);
+    }
+}
+
+.btn__Facebook {
+    width: 213.88px;
+    height: 35px;
+    padding: 10px;
+    border-radius: 4px;
+    background: #3b5998;
+    color: white;
+    border: 0px transparent;
+    text-align: center;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    &:hover {
+        background: #34559b;
+        opacity: 0.9;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+    }
+}
+
+.fa-facebook-square {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+@media only screen and (max-width: 399px) {
+    .btn__Facebook,
+    .btn__Google {
+        width: 100%
+    }
+}

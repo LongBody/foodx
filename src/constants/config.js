@@ -1,0 +1,1 @@
+export const CALL_API = 'https://fastfoodweb.herokuapp.com/api';

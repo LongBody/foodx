@@ -1,0 +1,51 @@
+.footer{
+    background-color: #333333;
+    color:#fff;
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    align-items: center;
+}
+
+.footer__logo{
+    float: left;
+}
+.logo{
+    height: 150px;
+    
+
+}
+.facebook:hover{
+    color:#3b5998;
+    }
+    
+    
+    .mail:hover{
+        color: #ff5700;
+    }
+    .instagram:hover{
+        color: #bc2a8d;
+    }
+
+
+.social-links{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+   }
+
+   .social-links li a:visited,
+   .social-links li a:link{
+    color:#888;
+    text-decoration: none;
+    font-size: 30px;
+   }
+
+   .contact-link{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+      }
