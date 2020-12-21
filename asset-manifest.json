@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foodx/static/css/main.09e2484e.chunk.css",
+    "main.js": "/foodx/static/js/main.d6c10b62.chunk.js",
+    "main.js.map": "/foodx/static/js/main.d6c10b62.chunk.js.map",
+    "runtime-main.js": "/foodx/static/js/runtime-main.6d645803.js",
+    "runtime-main.js.map": "/foodx/static/js/runtime-main.6d645803.js.map",
+    "static/js/2.385663be.chunk.js": "/foodx/static/js/2.385663be.chunk.js",
+    "static/js/2.385663be.chunk.js.map": "/foodx/static/js/2.385663be.chunk.js.map",
+    "index.html": "/foodx/index.html",
+    "precache-manifest.f48cf58c3b478368ddc7ad7a33b083c9.js": "/foodx/precache-manifest.f48cf58c3b478368ddc7ad7a33b083c9.js",
+    "service-worker.js": "/foodx/service-worker.js",
+    "static/css/main.09e2484e.chunk.css.map": "/foodx/static/css/main.09e2484e.chunk.css.map",
+    "static/js/2.385663be.chunk.js.LICENSE.txt": "/foodx/static/js/2.385663be.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/foodx/static/media/logo.93f9c925.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d645803.js",
+    "static/js/2.385663be.chunk.js",
+    "static/css/main.09e2484e.chunk.css",
+    "static/js/main.d6c10b62.chunk.js"
+  ]
+}
